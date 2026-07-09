@@ -1,0 +1,22 @@
+/* index.css */
+/* Loads Tailwind's base styles, then our global overrides */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0a1428; /* navy-900 */
+  color: #e2e8f0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
+
+/* Simple fade-in animation used across cards/pages -- keeps things
+   feeling alive without any "fancy" effects */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.fade-in {
+  animation: fadeIn 0.3s ease-out;
+}

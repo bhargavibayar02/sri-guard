@@ -1,0 +1,10 @@
+**/venv/
+**/node_modules/
+**/__pycache__/
+*.pyc
+.env
+**/dist/
+backend/temp_uploads/
+backend/generated_reports/
+backend/face_verify_error.log
+backend/app/ml/model.pkl

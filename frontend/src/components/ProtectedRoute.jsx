@@ -1,0 +1,13 @@
+// ProtectedRoute.jsx
+// Blocks access to pages if the user isn't logged in -- redirects to /login.
+
+import { Navigate } from "react-router-dom";
+import { useAuth } from "../context/AuthContext";
+
+export default function ProtectedRoute({ children }) {
+  const { isAuthenticated } = useAuth();
+  if (!isAuthenticated) {
+    return <Navigate to="/login" replace />;
+  }
+  return children;
+}

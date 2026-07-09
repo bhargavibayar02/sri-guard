@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#0a1428"/>
+
+  <!-- Shield shape -->
+  <path d="M32 8
+           L50 15
+           L50 30
+           C50 42 42 50 32 54
+           C22 50 14 42 14 30
+           L14 15
+           Z"
+        fill="#2563eb" stroke="#3b82f6" stroke-width="1.5"/>
+
+  <!-- Inner shield highlight -->
+  <path d="M32 12
+           L46 17.5
+           L46 30
+           C46 40 39.5 46.5 32 50
+           C24.5 46.5 18 40 18 30
+           L18 17.5
+           Z"
+        fill="#101c34"/>
+
+  <!-- Checkmark / eye symbol representing "guard" and AI detection -->
+  <path d="M23 31 L29 37 L41 23"
+        fill="none" stroke="#3b82f6" stroke-width="4"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,101 @@
+employee_id,name,department,role,normal_working_hours,registered_face_path
+EMP001,Rohan Iyer,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP001.jpg
+EMP002,Sneha Joshi,IT,System Admin,09:00-18:00,registered_faces/EMP002.jpg
+EMP003,Nikhil Gupta,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP003.jpg
+EMP004,Rahul Iyer,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP004.jpg
+EMP005,Meera Sharma,IT,IT Support,09:00-18:00,registered_faces/EMP005.jpg
+EMP006,Shreya Gupta,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP006.jpg
+EMP007,Nikhil Reddy,IT,Software Engineer,09:00-18:00,registered_faces/EMP007.jpg
+EMP008,Kavya Nair,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP008.jpg
+EMP009,Karan Malhotra,HR,HR Executive,09:00-18:00,registered_faces/EMP009.jpg
+EMP010,Rahul Gupta,HR,HR Executive,09:00-18:00,registered_faces/EMP010.jpg
+EMP011,Pooja Mehta,Finance,Accountant,09:00-18:00,registered_faces/EMP011.jpg
+EMP012,Manish Rao,HR,HR Executive,09:00-18:00,registered_faces/EMP012.jpg
+EMP013,Rahul Rao,Finance,Accountant,09:00-18:00,registered_faces/EMP013.jpg
+EMP014,Meera Desai,HR,Recruiter,09:00-18:00,registered_faces/EMP014.jpg
+EMP015,Karan Kapoor,HR,Recruiter,09:00-18:00,registered_faces/EMP015.jpg
+EMP016,Divya Malhotra,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP016.jpg
+EMP017,Divya Chopra,HR,HR Executive,09:00-18:00,registered_faces/EMP017.jpg
+EMP018,Rohan Singh,Finance,Accountant,09:00-18:00,registered_faces/EMP018.jpg
+EMP019,Pooja Nair,HR,HR Executive,09:00-18:00,registered_faces/EMP019.jpg
+EMP020,Rohan Kapoor,IT,IT Support,09:00-18:00,registered_faces/EMP020.jpg
+EMP021,Anita Rao,Finance,Finance Manager,09:00-18:00,registered_faces/EMP021.jpg
+EMP022,Manish Gupta,IT,System Admin,09:00-18:00,registered_faces/EMP022.jpg
+EMP023,Shreya Iyer,HR,Recruiter,09:00-18:00,registered_faces/EMP023.jpg
+EMP024,Divya Chopra,HR,HR Executive,09:00-18:00,registered_faces/EMP024.jpg
+EMP025,Sanjay Reddy,Finance,Accountant,09:00-18:00,registered_faces/EMP025.jpg
+EMP026,Nikhil Desai,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP026.jpg
+EMP027,Ritu Gupta,HR,HR Executive,09:00-18:00,registered_faces/EMP027.jpg
+EMP028,Rohan Patel,Operations,Operations Analyst,09:00-18:00,registered_faces/EMP028.jpg
+EMP029,Shreya Rao,IT,IT Support,09:00-18:00,registered_faces/EMP029.jpg
+EMP030,Nikhil Gupta,HR,Recruiter,09:00-18:00,registered_faces/EMP030.jpg
+EMP031,Pooja Iyer,Compliance,Risk Analyst,09:00-18:00,registered_faces/EMP031.jpg
+EMP032,Ritu Verma,IT,IT Support,09:00-18:00,registered_faces/EMP032.jpg
+EMP033,Vikram Joshi,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP033.jpg
+EMP034,Kavya Mehta,IT,IT Support,09:00-18:00,registered_faces/EMP034.jpg
+EMP035,Sanjay Mehta,Finance,Accountant,09:00-18:00,registered_faces/EMP035.jpg
+EMP036,Rohan Rao,Operations,Teller,09:00-18:00,registered_faces/EMP036.jpg
+EMP037,Sneha Joshi,Finance,Finance Manager,09:00-18:00,registered_faces/EMP037.jpg
+EMP038,Amit Verma,Compliance,Risk Analyst,09:00-18:00,registered_faces/EMP038.jpg
+EMP039,Anita Singh,HR,HR Manager,09:00-18:00,registered_faces/EMP039.jpg
+EMP040,Rohan Rao,Finance,Finance Manager,09:00-18:00,registered_faces/EMP040.jpg
+EMP041,Sneha Chopra,IT,IT Support,09:00-18:00,registered_faces/EMP041.jpg
+EMP042,Deepak Mehta,HR,Recruiter,09:00-18:00,registered_faces/EMP042.jpg
+EMP043,Pooja Malhotra,IT,System Admin,09:00-18:00,registered_faces/EMP043.jpg
+EMP044,Deepak Desai,IT,IT Support,09:00-18:00,registered_faces/EMP044.jpg
+EMP045,Amit Singh,Finance,Finance Manager,09:00-18:00,registered_faces/EMP045.jpg
+EMP046,Pooja Desai,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP046.jpg
+EMP047,Priya Iyer,HR,HR Executive,09:00-18:00,registered_faces/EMP047.jpg
+EMP048,Rahul Kapoor,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP048.jpg
+EMP049,Shreya Malhotra,Operations,Operations Analyst,09:00-18:00,registered_faces/EMP049.jpg
+EMP050,Ritu Rao,IT,System Admin,09:00-18:00,registered_faces/EMP050.jpg
+EMP051,Deepak Chopra,IT,Software Engineer,09:00-18:00,registered_faces/EMP051.jpg
+EMP052,Karan Desai,Compliance,Risk Analyst,09:00-18:00,registered_faces/EMP052.jpg
+EMP053,Karan Kapoor,Compliance,Auditor,09:00-18:00,registered_faces/EMP053.jpg
+EMP054,Pooja Singh,HR,HR Manager,09:00-18:00,registered_faces/EMP054.jpg
+EMP055,Sneha Iyer,Compliance,Risk Analyst,09:00-18:00,registered_faces/EMP055.jpg
+EMP056,Amit Sharma,IT,System Admin,09:00-18:00,registered_faces/EMP056.jpg
+EMP057,Divya Mehta,Compliance,Auditor,09:00-18:00,registered_faces/EMP057.jpg
+EMP058,Rahul Kapoor,IT,System Admin,09:00-18:00,registered_faces/EMP058.jpg
+EMP059,Rahul Desai,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP059.jpg
+EMP060,Rahul Rao,Finance,Accountant,09:00-18:00,registered_faces/EMP060.jpg
+EMP061,Ritu Iyer,IT,Software Engineer,09:00-18:00,registered_faces/EMP061.jpg
+EMP062,Nikhil Mehta,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP062.jpg
+EMP063,Ritu Malhotra,Operations,Operations Analyst,09:00-18:00,registered_faces/EMP063.jpg
+EMP064,Sneha Verma,Operations,Operations Analyst,09:00-18:00,registered_faces/EMP064.jpg
+EMP065,Kavya Gupta,Operations,Branch Manager,09:00-18:00,registered_faces/EMP065.jpg
+EMP066,Priya Joshi,Operations,Teller,09:00-18:00,registered_faces/EMP066.jpg
+EMP067,Sanjay Kapoor,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP067.jpg
+EMP068,Divya Iyer,HR,HR Executive,09:00-18:00,registered_faces/EMP068.jpg
+EMP069,Manish Patel,IT,IT Support,09:00-18:00,registered_faces/EMP069.jpg
+EMP070,Rohan Singh,Operations,Operations Analyst,09:00-18:00,registered_faces/EMP070.jpg
+EMP071,Manish Malhotra,IT,System Admin,09:00-18:00,registered_faces/EMP071.jpg
+EMP072,Priya Joshi,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP072.jpg
+EMP073,Rahul Desai,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP073.jpg
+EMP074,Kavya Singh,IT,System Admin,09:00-18:00,registered_faces/EMP074.jpg
+EMP075,Sanjay Desai,Operations,Operations Analyst,09:00-18:00,registered_faces/EMP075.jpg
+EMP076,Sanjay Sharma,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP076.jpg
+EMP077,Manish Reddy,Operations,Branch Manager,09:00-18:00,registered_faces/EMP077.jpg
+EMP078,Shreya Joshi,Operations,Teller,09:00-18:00,registered_faces/EMP078.jpg
+EMP079,Karan Reddy,Operations,Operations Analyst,09:00-18:00,registered_faces/EMP079.jpg
+EMP080,Nikhil Kapoor,IT,System Admin,09:00-18:00,registered_faces/EMP080.jpg
+EMP081,Amit Sharma,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP081.jpg
+EMP082,Ritu Rao,Finance,Finance Manager,09:00-18:00,registered_faces/EMP082.jpg
+EMP083,Priya Rao,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP083.jpg
+EMP084,Rahul Mehta,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP084.jpg
+EMP085,Divya Gupta,Finance,Finance Manager,09:00-18:00,registered_faces/EMP085.jpg
+EMP086,Divya Mehta,Finance,Finance Manager,09:00-18:00,registered_faces/EMP086.jpg
+EMP087,Meera Verma,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP087.jpg
+EMP088,Nikhil Mehta,Operations,Teller,09:00-18:00,registered_faces/EMP088.jpg
+EMP089,Rohan Iyer,Compliance,Risk Analyst,09:00-18:00,registered_faces/EMP089.jpg
+EMP090,Rohan Gupta,HR,HR Executive,09:00-18:00,registered_faces/EMP090.jpg
+EMP091,Neha Singh,IT,IT Support,09:00-18:00,registered_faces/EMP091.jpg
+EMP092,Arjun Singh,HR,HR Executive,09:00-18:00,registered_faces/EMP092.jpg
+EMP093,Sneha Verma,Compliance,Auditor,09:00-18:00,registered_faces/EMP093.jpg
+EMP094,Deepak Reddy,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP094.jpg
+EMP095,Rahul Desai,IT,Software Engineer,09:00-18:00,registered_faces/EMP095.jpg
+EMP096,Neha Patel,IT,Software Engineer,09:00-18:00,registered_faces/EMP096.jpg
+EMP097,Neha Mehta,Operations,Teller,09:00-18:00,registered_faces/EMP097.jpg
+EMP098,Shreya Reddy,Compliance,Compliance Officer,09:00-18:00,registered_faces/EMP098.jpg
+EMP099,Rohan Verma,Finance,Financial Analyst,09:00-18:00,registered_faces/EMP099.jpg
+EMP100,Shreya Patel,Finance,Finance Manager,09:00-18:00,registered_faces/EMP100.jpg
