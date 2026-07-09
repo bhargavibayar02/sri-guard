@@ -176,6 +176,12 @@ This project was built for the Finspark Hackathon 2026 as a prototype/MVP and is
 ### 7. Log in
 Demo:
 <img width="1920" height="1020" alt="Screenshot 2026-07-09 151526" src="https://github.com/user-attachments/assets/b696518e-7d3d-49b0-bee0-741adbbdb3ae" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-09 151544" src="https://github.com/user-attachments/assets/e3530c76-5258-458f-9512-6f5c48277955" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-09 151553" src="https://github.com/user-attachments/assets/031cc082-8675-430b-8455-54de64c8c24e" />
+
+
+<img width="1920" height="1020" alt="Screenshot 2026-07-09 151603" src="https://github.com/user-attachments/assets/14147eb4-b9dd-4460-a758-52cce9fa831c" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-09 171924" src="https://github.com/user-attachments/assets/df564a8b-bb5a-4eeb-b8f9-bf8bdea7ff68" />
 <img width="1920" height="1020" alt="Screenshot 2026-07-09 151615" src="https://github.com/user-attachments/assets/b922845c-16cd-4317-8fcc-728d0a0b855c" />
 
 
