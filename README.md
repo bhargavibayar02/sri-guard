@@ -62,7 +62,7 @@ Unlike traditional insider-threat tools that output a single opaque risk score, 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
